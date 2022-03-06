@@ -1,5 +1,11 @@
 # HEARD THAT
-Are you trying to remember where you've heard something before?
-Do you want to see if a line you're using in your creative project has been used before?
+Do you want to see if a phrase you're using in your creative project has been used before?  
+Are you trying to find the source of something you've heard?  
+Maybe you just wanna kill some time?  
 
-This is a web app that allows user to enter a string to search for where that string has been used before. Various APIs are used to check a wide variety of possible sources including song lyrics, famous quotes/speeches, movie scripts, and books.
+'Heard That' is a web app that allows user to enter a string that is then searched for within a wide variety of possible sources including: song lyrics, famous quotes/speeches, movie scripts, and books. All of this is accomplished through the use of various APIs including:  
+
+QuoDB - https://www.quodb.com/  
+Quotel - https://rapidapi.com/skjaldbaka17/api/quotel-quotes/details  
+Google Books API - https://developers.google.com/books  
+MusixMatch - https://developer.musixmatch.com/  
